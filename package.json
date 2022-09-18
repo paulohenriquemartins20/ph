@@ -5,7 +5,7 @@
   "main": "arquivo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node mais250"
+    "start": "node mais250.js"
   },
   "keywords": [
     "ph"
