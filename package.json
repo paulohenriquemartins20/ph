@@ -4,7 +4,7 @@
   "description": "um estudo",
   "main": "arquivo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
     "start": "node index.js"
   },
   "keywords": [
