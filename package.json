@@ -5,7 +5,7 @@
   "main": "arquivo.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "keywords": [
     "ph"
